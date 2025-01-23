@@ -31,5 +31,5 @@ Admin
 user: admin@example.com
 pass: admin
 
-****** https://www.campcodes.com/ ******
-Subcribe my Youtube Channel **** SerBermz ****
+****** https://www.codescamp.rf.gd/ ******
+Subcribe my Youtube Channel **** @codescamp ****
